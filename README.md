@@ -1,3 +1,8 @@
+<img src="Extras/dashboard1.png" width="300">
+
+<img src="Extras/dashboard2.png" width="300">
+
+
 ### Description
 Meal Delivery Service Analysis is a data analysis project that focuses on analyzing a meal kit delivery service dataset using Power BI. The project aims to gain valuable insights into customer behavior, popular meal choices, delivery patterns, and other key metrics to assist in making data-driven business decisions for the meal kit delivery service.
 
